@@ -1,0 +1,26 @@
+.top{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    .back{
+        width: 26px;
+        height: 20px;
+        margin: 0 8px;
+    }
+    .am-search{
+        width: 100%;
+        .am-search-cancel{
+            color: #62AB00;
+        }
+    }
+    
+}
+.history-list{
+    display: flex;
+    padding: 20px 10px;
+    flex-wrap: wrap;
+    .history{
+        padding: 0 10px;
+        margin: 10px 4px;
+    }
+}
